@@ -23,7 +23,7 @@ import com.empresa.util.Constantes;
 
 @RestController
 @RequestMapping("/rest/disponibilidad")
-//@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 
 public class DisponibilidadController {
 	
